@@ -1,7 +1,7 @@
 <h2>Just Me</h2>
 
 <h5>### Hi there 👋,</h5> 
-I’m Eli and it’s very important to me that you’re here, I am a Fullstack web and app developer with diverse knowledge in several computer related projects, that is to say , I have dabbled in  3D development (Oculus), Game Development (unity), Data analysis (R) and others. Being given the opportunity to improve my knowledge base daily (youtube, files) and collaborating with individual and teams is something I am grateful about.
+I’m Eli and it’s very important to me that you’re here, I am a Fullstack web and app developer with diverse knowledge in several computer related projects, that is to say , I have dabbled in  3D development (Oculus), Game Development (unity), Data analysis (R) and others. Being given the opportunity to improve my knowledge base daily (youtube, online pdf, documentations) and collaborating with individual and teams is something I am grateful about.
 
 <h2>As A Web Developer (Sorted according to Preference) </h2>
 <h5>Worked with:</h5>
@@ -28,8 +28,10 @@ I’m Eli and it’s very important to me that you’re here, I am a Fullstack w
 
 <h2>Contact</h2>
 <h5>Would love to work with you:</h5>
-<p> Frontend Mentor - [@prom12](https://www.frontendmentor.io/profile/Prom12)</p>
+
 <p>Email - [promatsakpo@gmail.com]</p>
+<p>LinkedIn - [https://www.linkedin.com/in/elikem-atsakpo-6b9432192/]</p>
+<p> Frontend Mentor - [@prom12](https://www.frontendmentor.io/profile/Prom12)</p>
 <!--
 **Prom12/Prom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
