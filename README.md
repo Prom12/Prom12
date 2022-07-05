@@ -16,7 +16,7 @@ I’m Eli and it’s very important to me that you’re here, I am a Fullstack w
 </ul>
 
 <ul>
-  <li>BOOSTRAP</li>
+  <li>BOOTSTRAP</li>
   <li>MATERIAL UI</li>
 </ul>
 <h2>As A Mobile Developer</h2>
