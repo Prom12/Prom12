@@ -26,6 +26,7 @@ I’m Eli and it’s very important to me that you’re here, I am a Fullstack w
 <ul>
   <li>ANDROID STUDIO (JAVA)</li>
   <li>REACT NATIVE</li>
+  <li>FLUTTER</li>
 </ul>
 
 <h2>Contact</h2>
