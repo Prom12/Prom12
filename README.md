@@ -5,16 +5,20 @@ I’m Eli and it’s very important to me that you’re here, I am a Fullstack w
 
 <h2>As A Web Developer (Sorted according to Preference) </h2>
 <h5>Worked with:</h5>
-<ul>
-  <li>HTML, CSS, JAVASCRIPT</li>
-  <li>VUE JS</li>
-  <li>NODE JS</li>
-  <li>LARAVEL FRAMEWORK (PHP)</li>
-  <li>C++</li>
-  <li>C#</li>
-  <li>REACT</li>
-</ul>
-
+<table>
+  <tr>
+    <td>HTML, CSS, JAVASCRIPT</td>
+    <td>VUE JS</td>
+    <td>NODE JS</td>
+    <td>REACT</td>
+  </tr>
+  <tr>
+    <td>LARAVEL FRAMEWORK (PHP)</td>
+    <td>PYTHON</td>
+    <td>C++</td>
+    <td>C#</td>
+  </tr>
+</table>
 <h5>UI Frameworks:</h5>
 <ul>
   <li>BOOTSTRAP</li>
